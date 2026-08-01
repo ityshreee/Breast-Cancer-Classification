@@ -74,8 +74,8 @@ Breast_Cancer_Classification/
 ## How to Run
 
 ```bash
-git clone <this-repo-url>
-cd Breast_Cancer_Classification
+git clone https://github.com/ityshreee/Breast-Cancer-Classification.git
+cd Breast-Cancer-Classification
 pip install -r requirements.txt
 jupyter notebook Notebook/Breast_Cancer_Classification.ipynb
 ```
